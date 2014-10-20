@@ -93,7 +93,9 @@ public class TestAuto {
         System.out.println(f4.getEncender());
         System.out.println(f4.getArrancar());
         System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
+        System.out.println("Actual");
         ///////////////////////////////////////////////////////////////////////
+        
     }
     
 }
